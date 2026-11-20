@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kerala-mega-lottery-results.netlify.app/sitemap.xml
